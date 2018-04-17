@@ -1,1 +1,1 @@
-# BillyBobAndThe-MunsterUprising
+# BillyBobAndTheMunsterUprising
