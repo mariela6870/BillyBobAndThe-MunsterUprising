@@ -7,7 +7,7 @@
 
 <img src="https://github.com/mariela6870/BillyBobAndThe-MunsterUprising/blob/master/startscreen.png">
 <img src="https://github.com/mariela6870/BillyBobAndThe-MunsterUprising/blob/master/monsters.png">
-<img src="">
+<img src="https://github.com/mariela6870/BillyBobAndThe-MunsterUprising/blob/master/control.png">
 <p>
   
   
