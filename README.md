@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/watch?v=_GikMdhAhv0&t=58s">How to Install</a>
 
 <img src="https://github.com/mariela6870/BillyBobAndThe-MunsterUprising/blob/master/startscreen.png">
-<img src="">
+<img src="https://github.com/mariela6870/BillyBobAndThe-MunsterUprising/blob/master/monsters.png">
 <img src="">
 <p>
   
